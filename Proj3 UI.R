@@ -1,4 +1,3 @@
-
 library(markdown)
 
 shinyUI(fluidPage(
