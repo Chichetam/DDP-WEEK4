@@ -1,7 +1,7 @@
 Choose Your Car
 ========================================================
-author: Foyinsola 
-date: Feb 14, 2019
+author: Justina
+date: June 17, 2019
 autosize: true
 
 Introduction
