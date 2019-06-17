@@ -1,3 +1,4 @@
+Name: Justina Onyeukwu
 ## Choose Your Car
 
 This web application allows you to choose a car that suits your needs. The application uses 'mtcars' dataset from the 'datasets' package in R which lists down 10 aspects of automobile design and performance for 32 cars. 
